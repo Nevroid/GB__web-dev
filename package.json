@@ -1,0 +1,29 @@
+{
+  "name": "gb__web-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "howler": "^2.2.1"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevroid/GB__web-dev.git"
+  },
+  "author": "Kir Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevroid/GB__web-dev/issues"
+  },
+  "homepage": "https://github.com/Nevroid/GB__web-dev#readme"
+}
